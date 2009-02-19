@@ -18,3 +18,11 @@ h2. Foo
 .p bar
 
 This should be inside a paragraph.
+
+<pre>
+Will this mess things up?
+</pre>
+
+This should also be inside a paragraph:
+* testing
+* foo
