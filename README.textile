@@ -16,3 +16,5 @@ h2. Foo
 * there
 
 .p bar
+
+This should be inside a paragraph.
