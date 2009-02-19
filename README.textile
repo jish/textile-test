@@ -10,3 +10,7 @@
 ## dos
 
 h2. Foo
+
+<pre>
+will this screw things up?
+</pre>
