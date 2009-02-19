@@ -26,3 +26,5 @@ Will this mess things up?
 This should also be inside a paragraph:
 * testing
 * foo
+
+So should this.
