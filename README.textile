@@ -48,3 +48,6 @@ Blah:
 
 This should have
 line breaks.
+
+Foo:
+bar
