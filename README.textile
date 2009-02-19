@@ -41,3 +41,7 @@ Here's one that has a colon before it:
 ** blah
 
 p. foo.
+
+Foo
+
+Blah:
