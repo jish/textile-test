@@ -11,10 +11,6 @@
 
 h2. Foo
 
-<pre>
-will this screw things up?
-</pre>
-
 .p foo
 * hey
 * there
