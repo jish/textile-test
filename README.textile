@@ -45,3 +45,6 @@ p. foo.
 Foo
 
 Blah:
+
+This should have
+line breaks.
