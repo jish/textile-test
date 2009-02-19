@@ -28,3 +28,14 @@ This should also be inside a paragraph:
 * foo
 
 So should this.
+
+Here's a nested list.
+* blah
+** blah
+*** blah
+
+Here's one that has a colon before it:
+* blah
+** blah
+* blah
+** blah
