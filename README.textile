@@ -61,3 +61,4 @@ let's see what happens when we try out some superscript
 
 1^2^ + 2^2^ + ... + 10^2^
 
+1<sup>2</sup> + 2<sup>2</sup> + ... + 10<sup>2</sup>
